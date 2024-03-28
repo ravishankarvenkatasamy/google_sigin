@@ -1,0 +1,257 @@
+.menu,
+.menu * {
+  box-sizing: border-box;
+}
+.menu {
+  background: var(--background-primary, #ffffff);
+  border-radius: 8px;
+  padding: 0px 0px 8px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 344px;
+  position: relative;
+  box-shadow: var(
+    --shallow-shallowbelow-box-shadow,
+    0px 4px 16px 0px rgba(0, 0, 0, 0.12)
+  );
+  overflow: hidden;
+}
+.menu-item {
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.text-framec {
+  padding: 12px 0px 12px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.leading-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.typographyc {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.textc {
+  color: var(--content-tertiary, #6b6b6b);
+  text-align: left;
+  font: var(
+    --label-x-small-12-16,
+    400 12px/16px "AvertaStd-Semibold",
+    sans-serif
+  );
+  position: relative;
+  align-self: stretch;
+}
+.text-fields {
+  background: var(--background-secondary, #f3f3f3);
+  border-radius: 5px;
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.aa {
+  color: var(--content-primary, #1b1b1b);
+  text-align: left;
+  font: 700 20px/20px "Times New Roman", sans-serif;
+  position: relative;
+}
+.text-frame2 {
+  padding: 8px 0px 8px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.typography2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.text2c {
+  color: var(--content-primary, #1b1b1b);
+  text-align: left;
+  font: var(
+    --label-small-14-16,
+    400 14px/16px "AvertaStd-Semibold",
+    sans-serif
+  );
+  position: relative;
+  align-self: stretch;
+}
+.text3c {
+  color: var(--content-tertiary, #6b6b6b);
+  text-align: left;
+  font: var(
+    --paragraph-x-small-12-20,
+    400 12px/20px "AvertaStd-Regular",
+    sans-serif
+  );
+  position: relative;
+  align-self: stretch;
+}
+.file-plus {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.image {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.www {
+  color: var(--content-primary, #1b1b1b);
+  text-align: left;
+  font: 700 14px/20px "Times New Roman", sans-serif;
+  position: relative;
+}
+.film {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.folder-plus {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-14764 {
+  padding: 5px 0px 3px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.google-classroom-icon-1 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.google-meet {
+  flex-shrink: 0;
+  width: 20px;
+  height: 16.4px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.microsoft-teams {
+  flex-shrink: 0;
+  width: 20px;
+  height: 18.8px;
+  position: relative;
+  overflow: hidden;
+}
+.group2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.zoom {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.group-3 {
+  position: absolute;
+  left: 0px;
+  top: 0.04px;
+  overflow: visible;
+}
+.google-drive {
+  flex-shrink: 0;
+  width: 20px;
+  height: 17.6px;
+  position: relative;
+  overflow: hidden;
+}
+.group3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.microsoft-onedrive {
+  flex-shrink: 0;
+  width: 20px;
+  height: 12.8px;
+  position: relative;
+  overflow: hidden;
+}
+.group4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.microsoft-onenote-icon-1 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.ReactModal__Overlay--after-open{
+    background: none !important;
+}
+ .ReactModal__Content--after-open{
+    padding: 0px !important;
+ }

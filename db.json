@@ -1,0 +1,171 @@
+{
+  "batches": [
+    {
+      "Batch": "batch1",
+      "Img": "https://www.pixelstalk.net/wp-content/uploads/2016/11/Free-Wallpapers-Education.png",
+      "Mode": "hybrid",
+      "Edited": "8",
+      "End": "03 jun 2023",
+      "Learners":"120",
+      "id": 1
+    },
+    {
+      "Batch": "batch1",
+      "Img": "http://2.bp.blogspot.com/-JfPjjpQBrC8/UvtvJwkkNrI/AAAAAAAACsk/t4Hgqc6Q8ck/s1600/online-education-concept.jpg",
+      "Mode": "hybrid",
+      "Edited": "5",
+      "End": "03 jun 2023",
+      "Learners":"120",
+      "id": 2
+    },
+    {
+      "Batch": "batch1",
+      "Img": "https://img.freepik.com/free-photo/education-day-arrangement-table-with-copy-space_23-2148721266.jpg?size=626&ext=jpg",
+      "Mode": "hybrid",
+      "Edited": "3",
+      "End": "03 jun 2023",
+      "Learners":"120",
+      "id": 3
+    },
+    {
+      "Batch": "batch1",
+      "Img": "https://wsuwp-uploads.s3.amazonaws.com/uploads/sites/90/2015/08/EDUCATION-text.jpg",
+      "Mode": "hybrid",
+      "Edited": "1",
+      "End": "03 jun 2023",
+      "Learners":"120",
+      "id": 4
+    },
+    {
+      "Batch": "batch1",
+      "Img": "https://t4.ftcdn.net/jpg/02/43/22/71/360_F_243227135_0MKgZJefxBmaClJmhFdgfSByHI4n8UVy.jpg",
+      "Mode": "hybrid",
+      "Edited": "2",
+      "End": "03 jun 2023",
+      "Learners":"120",
+      "id": 5
+    }
+  ],
+  "banner":[
+    {
+      "Img": "https://cdn.wallpapersafari.com/9/18/iLVBIR.jpg",
+      "id": 1
+    }
+  ],
+  "course_content":[
+    {
+      "Module":"Design module 1",
+      "Moduleurl":"http://www.pixelstalk.net/wp-content/uploads/2016/11/HD-Education-Photos.jpg",
+      "Courses":"2",
+      "Edited":"2",
+      "Titleoftext":"Title One",
+      "Titleofcontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+      "Subtitletext":"Title one of two",
+      "Subtitlecontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+      "Imagetitle":"image one",
+      "Imagedescription":"description of the image",
+      "imageurl":"http://levantium.com/wp-content/uploads/2010/06/camel.jpg",
+      "Documenttitle":"Document one",
+      "Documentdescription":"description of the Document",
+      "Documenturl":"https://media.istockphoto.com/photos/files-picture-id176837798?k=6&m=176837798&s=170667a&w=0&h=qaup4dQFoq_qhh0PHbd07MOH1nNhGgnx0AeNrbv14tE=",
+      "youtubeurl":"https://www.youtube.com/embed/E7wJTI-1dvQ",
+      "id":1
+      
+      },
+      {
+        "Module":"Design module 2",
+        "Moduleurl":"https://www.pixelstalk.net/wp-content/uploads/2016/11/Awesome-Education-HD-Pictures.jpg",
+        "Courses":"2",
+        "Edited":"2",
+        "Titleoftext":"Title One",
+        "Titleofcontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+        "Subtitletext":"Title one of two",
+        "Subtitlecontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+        "Imagetitle":"image one",
+        "Imagedescription":"description of the image",
+        "imageurl":"http://www.pixelstalk.net/wp-content/uploads/2016/11/HD-Education-Photos.jpg",
+        "Documenttitle":"Document one",
+        "Documentdescription":"description of the Document",
+        "Documenturl":"https://static.vecteezy.com/system/resources/previews/000/423/373/original/vector-document-in-folder-icon.jpg",
+        "youtubeurl":"https://www.youtube.com/embed/E7wJTI-1dvQ",
+        "id":2
+        
+        },
+        {
+          "Module":"Design module 3",
+          "Moduleurl":"https://image.freepik.com/free-vector/education-horizontal-banners-with-chalkboard-vector-illustration_1284-39557.jpg",
+          "Courses":"2",
+          "Edited":"2",
+          "Titleoftext":"Title One",
+          "Titleofcontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+          "Subtitletext":"Title one of two",
+          "Subtitlecontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+          "Imagetitle":"image one",
+          "Imagedescription":"description of the image",
+          "imageurl":"http://levantium.com/wp-content/uploads/2010/06/camel.jpg",
+          "Documenttitle":"Document one",
+          "Documentdescription":"description of the Document",
+          "Documenturl":"https://static.vecteezy.com/system/resources/previews/000/423/373/original/vector-document-in-folder-icon.jpg",
+          "youtubeurl":"https://www.youtube.com/embed/E7wJTI-1dvQ",
+          "id":3
+          
+          },
+          {
+            "Module":"Design module 4",
+            "Moduleurl":"https://c0.wallpaperflare.com/preview/141/865/232/various-college-education-learning.jpg",
+            "Courses":"2",
+            "Edited":"2",
+            "Titleoftext":"Title One",
+            "Titleofcontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+            "Subtitletext":"Title one of two",
+            "Subtitlecontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+            "Imagetitle":"image one",
+            "Imagedescription":"description of the image",
+            "imageurl":"http://levantium.com/wp-content/uploads/2010/06/camel.jpg",
+            "Documenttitle":"Document one",
+            "Documentdescription":"description of the Document",
+            "Documenturl":"https://static.vecteezy.com/system/resources/previews/000/423/373/original/vector-document-in-folder-icon.jpg",
+            "youtubeurl":"https://www.youtube.com/embed/E7wJTI-1dvQ",
+            "id":4
+            
+            },
+            {
+              "Module":"Design module 5",
+              "Moduleurl":"https://www.wallpapertip.com/wmimgs/78-787019_university-and-school-education-concept-with-e-learning.jpg",
+              "Courses":"2",
+              "Edited":"2",
+              "Titleoftext":"Title One",
+              "Titleofcontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+              "Subtitletext":"Title one of two",
+              "Subtitlecontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+              "Imagetitle":"image one",
+              "Imagedescription":"description of the image",
+              "imageurl":"http://levantium.com/wp-content/uploads/2010/06/camel.jpg",
+              "Documenttitle":"Document one",
+              "Documentdescription":"description of the Document",
+              "Documenturl":"https://static.vecteezy.com/system/resources/previews/000/423/373/original/vector-document-in-folder-icon.jpg",
+              "youtubeurl":"https://www.youtube.com/embed/E7wJTI-1dvQ",
+              "id":5
+              
+              },
+              {
+                "Module":"Design module 6",
+                "Moduleurl":"https://pace.oregonstate.edu/sites/default/files/styles/course_banner_large/public/images/course/cover/untitled_0.jpg?itok=NNr23iIa",
+                "Courses":"2",
+                "Edited":"2",
+                "Titleoftext":"Title One",
+                "Titleofcontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+                "Subtitletext":"Title one of two",
+                "Subtitlecontent":"Jorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.",
+                "Imagetitle":"image one",
+                "Imagedescription":"description of the image",
+                "imageurl":"http://levantium.com/wp-content/uploads/2010/06/camel.jpg",
+                "Documenttitle":"Document one",
+                "Documentdescription":"description of the Document",
+                "Documenturl":"https://static.vecteezy.com/system/resources/previews/000/423/373/original/vector-document-in-folder-icon.jpg",
+                "youtubeurl":"https://www.youtube.com/embed/E7wJTI-1dvQ",
+                "id":6
+                
+                }
+  ]
+}
