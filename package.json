@@ -1,5 +1,5 @@
 {
-  "name": "nutz",
+  "name": "google_sigin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,7 @@
     "concurrently": "^7.6.0",
     "email-validator": "^2.0.4",
     "firebase": "^10.3.0",
+    "json-server": "^1.0.0-alpha.23",
     "primeflex": "^3.3.0",
     "primeicons": "^6.0.1",
     "primereact": "^9.6.0",
